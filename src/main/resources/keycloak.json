@@ -1,0 +1,12 @@
+{
+  "realm": "bidi",
+  "auth-server-url": "http://localhost:8180/",
+  "ssl-required": "external",
+  "resource": "back-bidi",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "vmo02cetjcFkphGumAT8WPuw45Jl5y5b"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
